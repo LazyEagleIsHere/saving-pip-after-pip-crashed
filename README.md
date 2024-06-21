@@ -1,2 +1,3 @@
-**If your pip is crashed after some technical problem, type this code on git can help you** \n
+**If your pip crashed after some technical problem, type this code on git can help you**
+
 python -m ensurepip --upgrade
